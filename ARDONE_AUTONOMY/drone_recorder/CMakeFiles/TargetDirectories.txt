@@ -1,0 +1,16 @@
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/clean-test-results.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/drone_recorder.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/rosbuild_precompile.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/rospack_genmsg.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/rospack_genmsg_libexe.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/rospack_gensrv.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/test.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/test-future.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/test-results.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/test-results-run.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/drone_recorder/CMakeFiles/tests.dir

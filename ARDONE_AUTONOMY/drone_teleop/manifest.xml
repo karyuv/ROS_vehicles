@@ -1,0 +1,18 @@
+<package>
+  <description brief="drone_teleop">
+
+     drone_teleop
+
+  </description>
+  <author></author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/drone_teleop</url>
+  <depend package="geometry_msgs"/>
+  <depend package="turtlesim"/>
+  <depend package="sensor_msgs"/>
+  <depend package="joy"/>
+
+</package>
+
+

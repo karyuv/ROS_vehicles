@@ -1,0 +1,119 @@
+
+					buttonvalue= joy_buttons					
+														
+					i=i+1
+					time.sleep(0.10)
+					if(i==19):
+						toggle_pub.publish(Empty())
+						time.sleep(0.25)
+					if(i<7 and i%2 > 0):		
+                                        	twist.linear.y=0.00222*(ypos)
+					else:
+						twist.linear.y=0.0
+
+					if(i==6):
+						toggle_pub.publish(Empty())
+						time.sleep(0.25)
+
+                                        if(i >= 10 and i < 17 and i%2 < 1):# 20
+						twist.linear.x=0.1	
+					else:
+						twist.linear.x=0.0
+						twist.linear.y=0.0
+					pub.publish(twist)
+					if(xdis==1 and i>=10):
+						print 'hover******************************************QUIT AUTO******* MANUAL MODE!'
+						twist.linear.x=-0.1
+						pub.publish(twist)
+						time.sleep(0.5)
+						hover()	
+						break	
+					if(i>=20):
+						i=0
+					if(buttonvalue[7]==1):
+						print 'quit AUTO \n Manual MODE'
+						break
+					if(buttonvalue[2] == 1):
+		     				toggle_pub.publish(Empty())
+						time.sleep(0.25)
+				time.sleep(0.25)	
+			if buttonvalue[5] == 1:
+				hover()
+			
+			# takeoff and landing
+
+			motion()
+			#pub.publish(twist)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		time.sleep(0.25)
+				print 'autonomous node'			
+				while(True):
+					buttonvalue= joy_buttons					
+														
+					i=i+1
+					time.sleep(0.10)
+					if(i==1):
+						toggle_pub.publish(Empty())
+						time.sleep(0.25)
+					if(i%2 > 0 and i < 14):#odd action		
+                                        	twist.linear.y=0.00222*(ypos)
+					else:
+						twist.linear.y=0.0
+
+					if(i==14):
+						toggle_pub.publish(Empty())
+						time.sleep(0.25)
+
+                                        if(i%2 < 1):# 20  even action
+						twist.linear.x=0.1	
+					else:
+						twist.linear.x=0.0
+						twist.linear.y=0.0
+					pub.publish(twist)
+					if(xdis==1 and i>=13):
+						print 'hover******************************************QUIT AUTO******* MANUAL MODE!'
+						twist.linear.x=-0.1
+						pub.publish(twist)
+						time.sleep(0.5)
+						hover()	
+						break	
+					if(i>20):
+						i=0
+					if(buttonvalue[7]==1):
+						print 'quit AUTO \n Manual MODE'
+						break
+					if(buttonvalue[2] == 1):
+		     				toggle_pub.publish(Empty())
+						time.sleep(0.25)
+				time.sleep(0.25)	
+			if buttonvalue[5] == 1:
+				hover()
+			
+			# takeoff and landing
+
+			motion()
+			#pub.publish(twist)
+

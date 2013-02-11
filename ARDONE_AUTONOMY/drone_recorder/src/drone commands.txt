@@ -1,0 +1,14 @@
+rosrun drone_recorder drone_recorder 
+
+rosrun ardrone_brown ardrone_driver 
+
+
+roscore
+
+
+rosrun drone12 drone12
+
+rosrun drone_teleop drone_teleop.py
+
+
+

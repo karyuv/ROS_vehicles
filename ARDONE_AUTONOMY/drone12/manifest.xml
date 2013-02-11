@@ -1,0 +1,24 @@
+<package>
+  <description brief="drone12">
+
+     drone12
+
+  </description>
+  <author>karthik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/drone12</url>
+  <depend package="sensor_msgs"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="image_transport"/>
+   <depend package="turtlesim"/>
+   <depned package="ardrone_brown"/>
+   <depend package="std_srvs"/> 
+<rosdep name="libsdl-dev" />
+  		
+</package>
+
+

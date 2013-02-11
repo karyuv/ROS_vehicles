@@ -1,0 +1,21 @@
+<package>
+  <description brief="pcl_lms200">
+
+     pcl_lms200
+
+  </description>
+  <author>karthik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/pcl_lms200</url>
+  <depend package="pcl"/>
+  <depend package="pcl_ros"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="laser_geometry"/>
+  <depend package="tf"/>
+ <depend package="sensor_msgs" />
+ <depend package="turtlesim"/>
+</package>
+
+

@@ -1,0 +1,16 @@
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/clean-test-results.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/rosbuild_precompile.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/rospack_genmsg.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/rospack_genmsg_libexe.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/rospack_gensrv.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/sdc2130.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/test.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/test-future.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/test-results.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/test-results-run.dir
+/home/karthik/ros_workspace/brown-ros-pkg-read-only/experimental/sdc2130/CMakeFiles/tests.dir

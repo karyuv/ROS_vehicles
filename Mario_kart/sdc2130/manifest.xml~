@@ -1,0 +1,25 @@
+<package>
+  <description brief="sdc2130">
+
+     sdc2130
+
+  </description>
+  <author>karthik</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/sdc2130</url>
+  <depend package="sensor_msgs"/>
+  <depend package="opencv2"/>
+  <depend package="cv_bridge"/>
+  <depend package="roscpp"/>
+  <depend package="std_msgs"/>
+  <depend package="image_transport"/>
+  <depend package="turtlesim"/>
+  <depend package="ardrone_brown"/>
+  <depend package="std_srvs"/>
+<depend package="geometry_msgs"/>
+  <depend package="joy"/>
+
+</package>
+
+
